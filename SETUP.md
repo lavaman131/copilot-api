@@ -1,4 +1,4 @@
-# Docker Setup
+# Setup
 
 ## Prerequisites
 
