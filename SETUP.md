@@ -4,10 +4,16 @@
 
 Before you begin, ensure you have the following installed on your machine:
 - Docker Desktop: [Install Docker Desktop](https://docs.docker.com/get-docker/)
+- This repo: [Clone the Repository]:
+
+```bash
+git clone https://github.com/lavaman131/copilot-api.git
+```
 
 ## Build the Docker Image
 
 ```bash
+cd copilot-api
 docker build -t copilot-api .
 ```
 
